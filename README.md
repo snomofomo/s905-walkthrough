@@ -39,3 +39,11 @@ _(change zoneinfo/Region/City to match your own)_
   
   _confirm with `date`_
   
+### Update OS and Install Deps
+
+`pacman -Syu`
+
+`pacman -S base-devel mongodb wget sudo`
+
+### Create User and Configure for sudo
+
