@@ -7,7 +7,7 @@ Direct Download for Arch File: https://yadi.sk/d/5_32km_EsCV2A/ArchLinux
 
     S905X_5912_ArchLinux_20170519_4_9_26.img.xz (at the time of writing)
 
-- Burn the image and make the non-BOOT partition as big as possible
+- Burn the image and make the non-BOOT partition as big as possible  (https://gparted.org/liveusb.php)
 
 - insert sd card and boot the linux box
 
